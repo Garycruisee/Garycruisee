@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### My name is Gary Cruise & i'm a Software Engineer!
-#### 
+#### My Hobby is playing games 🎮 & fitness 🏋️
 -----
 
 #### About Me!
@@ -13,30 +13,38 @@ At present, I am actively engaged in pursuing a career as a software developer. 
 This combination of expertise from my past experience and technical skills has equipped me with a solid foundation in software development. In addition to my strong communication and teamwork. I believe that I can be a well-versed software developer who can tackle many tasks at once. I am dedicated to further expanding my knowledge and skill set in this ever-evolving field to excel as a software developer.
 
 ####  ⚙️Skills
-| Programming Language | Proficiency|
+| Programming Language: Frontend | Proficiency|
 |-------|------------|
-|![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=blue&color=2bbc8a)| Advanced|
-|![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=yellow&color=2bbc8a) | Advanced |
-| ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=007acc&color=2bbc8a) | Intermediate |
-| ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=orange&color=2bbc8a) | Intermediate |
-|![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=red&color=2bbc8a) | Intermediate 
+|![](https://img.shields.io/badge/HTML-HTML5-informational?style=flat&logo=html5&logoColor=red&color=2bbc8a)| Intermediate|
+|![](https://img.shields.io/badge/CSS-CSS3-informational?style=flat&logo=css3&logoColor=black&color=2bbc8a) | Intermediate |
+|![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=007acc&color=2bbc8a) | Intermediate |
+|![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=blue&color=2bbc8a) | Beginner |
 
-| Framework | Proficiency|
+| Programming Language: Backend | Proficiency|
 |-------|------------|
-| ![](https://img.shields.io/badge/Framework-Codeigniter-informational?style=flat&logo=codeigniter&logoColor=orange&color=2bbc8a) | Advanced |
-| ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=read&color=2bbc8a) | Advanced |
-| ![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=green&color=2bbc8a) | Intermediate |
-| ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=blue&color=2bbc8a) | Intermediate |
+|![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=yellow&color=2bbc8a) | Intermediate |
+|![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a) | Intermediate |
+|![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=pink&color=2bbc8a) | Beginner |
+|![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=green&color=2bbc8a)| Beginner |
 
-
-| Tools | Description|
+| Database Management | Description|
 |-------|------------|
-|![](https://img.shields.io/badge/VCS-git-informational?style=flat&logo=git&logoColor=red&color=2bbc8a) | Github, Gitlab, CLI| 
-|![](https://img.shields.io/badge/HTML-HTML5-informational?style=flat&logo=html5&logoColor=red&color=2bbc8a) | Markdown, XHTML|
-|![](https://img.shields.io/badge/Styling-SASS-informational?style=flat&logo=sass&logoColor=pink&color=2bbc8a) | |
-|![](https://img.shields.io/badge/Styling-LESS-informational?style=flat&logo=less&logoColor=white&color=2bbc8a) | |
-| ![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=red&color=2bbc8a) | Currently on Ubuntu 20|
+|![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=blue&color=2bbc8a) | Intermediate| 
+|![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=green&color=2bbc8a) | Beginner|
 
+#### 🌱 I’m currently learning ...
+- JavaScript = to deepen my understanding!
+- React Framework = to deepen my understanding!
+
+#### 🔭 I’m currently working on ...
+- PokeAPI! 
+- My Personal Website!
+
+#### 📫 How to reach me: ...
+You can connect with me on:
+- 🔸 [GitHub](https://github.com/Garycruisee)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/garycruise/)
+- ✉️ Email: garycruise11@gmail.com
 
 <!--
 **Garycruisee/Garycruisee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
